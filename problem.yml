@@ -1,4 +1,6 @@
 name: New Problem
 source: ~
 time_limit: 1000
+timing_mode: case
+# timing_mode: total
 space_limit: 200
